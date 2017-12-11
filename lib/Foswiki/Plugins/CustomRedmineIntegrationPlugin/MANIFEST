@@ -1,0 +1,8 @@
+data/Sandbox/PluginTestRedmineIntegrationPlugin.txt 0644
+data/System/CustomRedmineIntegrationPlugin.txt 0755
+lib/Foswiki/Plugins/CustomRedmineIntegrationPlugin.pm 0755
+lib/Foswiki/Plugins/CustomRedmineIntegrationPlugin/Config.spec 0644
+pub/System/CustomRedmineIntegrationPlugin/redmine_fluid_icon.png 0644
+pub/System/CustomRedmineIntegrationPlugin/rip.css 0644
+test/unit/CustomRedmineIntegrationPlugin/RedmineIntegrationPluginSuite.pm 0755
+test/unit/CustomRedmineIntegrationPlugin/RedmineIntegrationPluginTests.pm 0755
