@@ -1,0 +1,2 @@
+# CustomRedmineIntegrationPlugin
+Custom component for RedmineIntegrationPlugin
